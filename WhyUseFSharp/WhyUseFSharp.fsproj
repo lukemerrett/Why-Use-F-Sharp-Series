@@ -49,6 +49,8 @@
   <ItemGroup>
     <Compile Include="AssemblyInfo.fs" />
     <Compile Include="BasicSyntax.fs" />
+    <Compile Include="RecordTypes.fs" />
+    <Compile Include="SortingAlgorithm.fs" />
     <Compile Include="Program.fs" />
     <None Include="App.config" />
   </ItemGroup>
