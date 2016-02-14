@@ -94,11 +94,11 @@ optionPatternMatch invalidValue
 let twoTuple = 1,2
 let threeTuple = "a",3,true
 
-// Record types have named fields, like standard DTOs or POCOs
+// Record types have named labels, like standard DTOs or POCOs
 type Person = {First: string; Last: string}
 
 // Note how here we don't have to declare what type we are creating
-// It infers type based on the fields declared
+// It infers type based on the labels declared
 let person1 = {First="John";  Last="Doe"}
 
 // Union types have choices between different sub-types
