@@ -51,6 +51,8 @@
     <Compile Include="BasicSyntax.fs" />
     <Compile Include="RecordTypes.fs" />
     <Compile Include="SortingAlgorithm.fs" />
+    <Compile Include="DownloadWebPage.fs" />
+    <Compile Include="FourKeyConcepts.fs" />
     <Compile Include="Program.fs" />
     <None Include="App.config" />
   </ItemGroup>
