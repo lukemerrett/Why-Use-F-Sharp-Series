@@ -8,3 +8,4 @@ Covers:
 * [Comparing F# with C#: A simple sum](http://fsharpforfunandprofit.com/posts/fvsc-sum-of-squares/)
 * [Comparing F# with C#: Sorting](http://fsharpforfunandprofit.com/posts/fvsc-quicksort/)
 * A deeper look into Record Types
+* [Comparing F# with C#: Downloading a web page](http://fsharpforfunandprofit.com/posts/fvsc-download/)
