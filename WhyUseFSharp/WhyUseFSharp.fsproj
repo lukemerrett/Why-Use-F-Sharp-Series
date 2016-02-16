@@ -54,6 +54,7 @@
     <Compile Include="DownloadWebPage.fs" />
     <Compile Include="FourKeyConcepts.fs" />
     <Compile Include="TypeInference.fs" />
+    <Compile Include="LowOverheadTypeDefinitions.fs" />
     <Compile Include="Program.fs" />
     <None Include="App.config" />
   </ItemGroup>
